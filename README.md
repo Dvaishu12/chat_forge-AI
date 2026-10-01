@@ -21,6 +21,10 @@ flowchart LR
     I --> J[Grounded answer + source excerpts]
 ```
 
+## Demo
+
+[Watch or download the project demo](./mini_rag_project.mp4).
+
 ## Run locally
 
 1. Install Python 3.10 or later and [Tesseract OCR](https://github.com/UB-Mannheim/tesseract/wiki). On Windows, add Tesseract to `PATH`, or set `TESSERACT_CMD` in your `.env` file.
